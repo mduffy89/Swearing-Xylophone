@@ -1,6 +1,6 @@
 var wordNumber = 0;
 var soundsPath = "sounds/";
-var extension = ".mp3"
+var extension = ".m4a"
 
 var manifest = [
     [ // You
